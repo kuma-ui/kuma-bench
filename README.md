@@ -10,6 +10,7 @@ The results are quite encouraging, demonstrating that the Kuma UI button does no
 
 - Normal Button: 0.013800 ms
 - Kuma UI Button: 0.009200 ms
+
 This shows that the Kuma UI button component performs at a comparable level to a native HTML button, which is quite an achievement.
 
 ## Setup
